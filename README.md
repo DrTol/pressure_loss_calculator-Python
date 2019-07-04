@@ -1,5 +1,5 @@
 # Pressure Loss Calculator Tool - Python (SI Units)
-A Matlab tool calculating the friction pressure loss (head loss) in circular pipes with full flow water, based on Darcy-Weisbach using Clamond algorithm for the friction factor. 
+A Python tool calculating the friction pressure loss (head loss) in circular pipes with full flow water, based on Darcy-Weisbach using Clamond algorithm for the friction factor. 
 
 - Excel functions (also as add-in) for the same calculator/s can be found in [pressure_loss_calculator-Excel.git](https://github.com/DrTol/pressure_loss_calculator-Excel.git).
 - Matlab functions for the same calculator/s can be found in [pressure_loss_calculator-Matlab.git](https://github.com/DrTol/pressure_loss_calculator-Matlab).
