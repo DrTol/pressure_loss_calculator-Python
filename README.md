@@ -8,4 +8,4 @@ A Python tool calculating the friction pressure loss (head loss) in circular pip
 This tool requires `XSteamPython` and `SciPy` be installed. Please see [XSteamPython.git](https://github.com/raldridge11/XSteamPython)
 
 ## How2Use
-Example scripts are given to illustrate how to use the Matlab tools developed. 
+Please see [ExampleScript.py](https://github.com/DrTol/pressure_loss_calculator-Python/blob/master/ExampleScript.py)
