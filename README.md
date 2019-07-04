@@ -17,7 +17,7 @@ You are free to use, modify and distribute the code as long as authorship is pro
 We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our Matlab tools developed during the PhD study here in GitHub.
 
 ## How2Cite:
-1. Tol, Hİ. pressure_loss_calculator-Python. DOI: XXX. GitHub Repository 2018; https://github.com/DrTol/pressure_loss_calculator-Python
+1. Tol, Hİ. pressure_loss_calculator-Python. DOI: 10.5281/zenodo.3268807. GitHub Repository 2018; https://github.com/DrTol/pressure_loss_calculator-Python
 2. Tol, Hİ. District heating in areas with low energy houses - Detailed analysis of district heating systems based on low temperature operation and use of renewable energy. PhD Supervisors: Svendsen S. & Nielsen SB. Technical University of Denmark 2015; 204 p. ISBN: 9788778773685.
 
 ## References
