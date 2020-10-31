@@ -14,7 +14,9 @@ Please see [ExampleScript.py](https://github.com/DrTol/pressure_loss_calculator-
 You are free to use, modify and distribute the code as long as authorship is properly acknowledged. The same applies for the original works 'XSteam.m' by Holmgren M. and 'colebrook.m' by Clamond D, this repository Python tools make use of.
 
 ## Acknowledgement 
-We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our Matlab tools developed during the PhD study here in GitHub.
+In memory of my mother Esma Tol and my father Bekir Tol.
+
+We would like to acknowledge all of the open-source minds in general for their willing of share (as apps or comments/answers in forums), which has encouraged our department to publish our Python tools developed during the PhD study here in GitHub.
 
 ## How2Cite:
 1. Tol, Hİ. pressure_loss_calculator-Python. DOI: 10.5281/zenodo.3268807. GitHub Repository 2018; https://github.com/DrTol/pressure_loss_calculator-Python
