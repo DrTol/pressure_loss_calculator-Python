@@ -7,17 +7,19 @@ aRou=0.1    # [mm]      Absolute roughness
 mFlow=4.09  # [kg/s]    Mass flow rate
 T=90        # [ºC]      Water temperature
 L=66        # [m]       Pipe length
+fluid_name = "Water" # Fluid name
+P = 1.01325 # [bar]     Fluid pressure
 
 ## Main Function that returns the pressure loss
 import PressureLoss as PL
 
-print("Pressure Loss [bar] = ", PL.PressureLoss_DW(L,D,mFlow,T,aRou))
+print("Pressure Loss coolProp [bar] = ", PL.PressureLoss_DW(L,D,mFlow,T,aRou,P,fluid_name))
 
 ## Other Functions
 
 # Function that returns Reynolds number
 import SubFunctions as SF
-Re=SF.Reynolds(mFlow,D,T)
+Re=SF.Reynolds(mFlow,D,T,P,fluid_name)
 print("Reynolds = ", Re)
 
 # Functions that return Darcy Friction Factor, f
