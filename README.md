@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # Pressure Loss Calculator Tool - Python (SI Units)
 A Python tool calculating the friction pressure loss (head loss) in circular pipes with full flow water, based on Darcy-Weisbach using Clamond algorithm for the friction factor. 
 
